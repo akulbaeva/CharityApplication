@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CharityApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_help">Help</string>
+    <string name="btn_log_in"> Log In</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="tv_information_about_app">Charities often have certain needed items that are expensive to purchase and also aren’t items that are typically donated. Donors want to make impactful donations, but often don’t know what items the charity needs to operate. Donate, Period solves this problem from both ends by creating a platform to connect donors with the items charities need most.</string>
+    <string name="tv_app_name">Giving individual the power to make impactful donations by connecting them with the items charities need most.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="application_to_signup_text">Sign Up</string>
+    <string name="application_to_login">Log in</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+</resources>
