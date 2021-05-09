@@ -42,6 +42,5 @@ Follow the link below to see how the app works.
 
 ## Team Members:
 
-* Zhamila Abdyashymova - project manager
 * Tattygul Abdimamatova - android developer
 * Aiymbubu Kulbaeva - web developer
